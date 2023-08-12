@@ -89,7 +89,7 @@ img {
 }
 
 .cta-container {
-  background-image: url(/images/bg-pattern-intro-mobile.svg);
+  background-image: url(./images/bg-pattern-intro-mobile.svg);
   background-repeat: no-repeat;
   background-size: 300%;
   background-position: center;
@@ -255,7 +255,7 @@ hr {
 }
 
 .states-write-up-container {
-  background-image: url(/images/bg-pattern-circles.svg);
+  background-image: url(./images/bg-pattern-circles.svg);
   background-repeat: no-repeat;
   background-size: 90%;
   background-position: 50% -50%;
@@ -307,7 +307,7 @@ footer p {
 @media (min-width: 1024px) and (max-width: 1440px) {
   .cta-container {
     position: relative;
-    background-image: url(/images/bg-pattern-intro-desktop.svg);
+    background-image: url(./images/bg-pattern-intro-desktop.svg);
     background-size: 220%;
   }
 
