@@ -1,6 +1,6 @@
 # Blogr landing page 📔  
 
-###  🌐 [Blogr](opherx.github.io/Blogr)  
+###  🌐 [Blogr](https://opherx.github.io/Blogr/)  
 
 #### Overview 🔍  
 
